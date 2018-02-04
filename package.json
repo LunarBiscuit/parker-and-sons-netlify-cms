@@ -1,8 +1,8 @@
 {
-  "name": "gatsby-starter-netlify-cms",
-  "description": "Example Gatsby, and Netlify CMS project",
-  "version": "1.1.0",
-  "author": "Austin Green",
+  "name": "parker-and-sons-netlify-cms",
+  "description": "Starter Site for Parker and Sons",
+  "version": "0.0.1",
+  "author": "Gareth Parker",
   "dependencies": {
     "bulma": "^0.6.0",
     "gatsby": "^1.9.63",
@@ -21,7 +21,7 @@
     "react-load-script": "0.0.6"
   },
   "keywords": [
-    "gatsby"
+    "gatsby trading website"
   ],
   "license": "MIT",
   "main": "n/a",
