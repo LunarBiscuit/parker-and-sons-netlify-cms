@@ -1,46 +1,35 @@
 ---
-templateKey: 'product-page'
+templateKey: product-page
 path: /products
 title: Our Products
-image: /img/jumbotron.jpg
+image: /img/david-siglin-87978.jpg
 heading: What we offer
 description: >-
-  Parker and Sons can offer a wide range of different products for your company. Contact us to find out more.
+  Parker and Sons can offer a wide range of different products for your company.
+  Contact us to find out more.
 intro:
   blurbs:
     - image: /img/coffee.png
-      text: >
-        We sell green and roasted coffee beans that are sourced directly from
-        independent farmers and farm cooperatives. We’re proud to offer a
-        variety of coffee beans grown with great care for the environment and
-        local communities. Check our post or contact us directly for current
-        availability.
+      text: |
+        We sell all sorts.
     - image: /img/coffee-gear.png
-      text: >
-        We offer a small, but carefully curated selection of brewing gear and
-        tools for every taste and experience level. No matter if you roast your
-        own beans or just bought your first french press, you’ll find a gadget
-        to fall in love with in our shop.
+      text: |
+        We offer a drink when you come around.
     - image: /img/tutorials.png
       text: >
-        Love a great cup of coffee, but never knew how to make one? Bought a
-        fancy new Chemex but have no clue how to use it? Don't worry, we’re here
-        to help. You can schedule a custom 1-on-1 consultation with our baristas
-        to learn anything you want to know about coffee roasting and brewing.
-        Email us or call the store for details.
+        We love a great cup of coffee, but also caring about our customers and
+        making sure you are happy with our service.
     - image: /img/meeting-space.png
       text: >
-        We believe that good coffee has the power to bring people together.
-        That’s why we decided to turn a corner of our shop into a cozy meeting
-        space where you can hang out with fellow coffee lovers and learn about
-        coffee making techniques. All of the artwork on display there is for
-        sale. The full price you pay goes to the artist.
+        We believe that good customer service is the key to a great business for
+        everyone involved.
   heading: What we offer
   description: >
-    Parker and Sons offer a wide range of products for you and your company at competitive prices.
+    Parker and Sons offer a wide range of products for you and your company at
+    competitive prices.
 main:
   heading: Great service with no compromises
-  description: >
+  description: |
     Description will go here about our service and ethos.
   image1:
     alt: A close-up of a paper filter filled with ground coffee
@@ -53,38 +42,35 @@ main:
     image: /img/products-grid1.jpg
 testimonials:
   - author: Person Name Here
-    quote: >-
-      Parker and Sons are great.
+    quote: Parker and Sons are great.
   - author: Another Person
-    quote: >-
-      Amazon service and friendly people - will use them again.
+    quote: Amazon service and friendly people - will use them again.
 full_image: /img/products-full-width.jpg
 pricing:
-  heading: Monthly subscriptions
-  description: >-
-    We make it easy to make great coffee a part of your life. Choose one of our
-    monthly subscription plans to receive great coffee at your doorstep each
-    month. Contact us about more details and payment info.
+  heading: Featured Offers
+  description: Here are our features special offers
   plans:
-    - description: Perfect for the drinker who likes to enjoy 1-2 cups per day.
+    - description: The perfect drill
       items:
-        - 3 lbs of coffee per month
-        - Green or roasted beans"
-        - One or two varieties of beans"
-      plan: Small
+        - High quality
+        - Affordable
+        - Recommended by professionals
+      plan: A random item
       price: '50'
-    - description: 'Great for avid drinkers, java-loving couples and bigger crowds'
+    - description: The perfect tool set for DIY stores
       items:
-        - 6 lbs of coffee per month
-        - Green or roasted beans
-        - Up to 4 different varieties of beans
-      plan: Big
+        - Popular
+        - Accessible
+        - Affordable
+      plan: Tool Set
       price: '80'
-    - description: Want a few tiny batches from different varieties? Try our custom plan
+    - description: What more offers? get in touch!
       items:
         - Whatever you need
-        - Green or roasted beans
-        - Unlimited varieties
+        - Give us a call
+        - Facebook message
+        - or pop in!
       plan: Custom
       price: '??'
 ---
+
