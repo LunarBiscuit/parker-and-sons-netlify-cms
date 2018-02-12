@@ -1,8 +1,8 @@
 ---
 templateKey: product-page
 path: /products
-title: DICKS
-image: /img/flavor_wheel.jpg
+title: OUR PRODUCTS
+image: /img/david-siglin-87978.jpg
 heading: What we offer
 description: >-
   Parker and Sons can offer a wide range of different products for your company.
